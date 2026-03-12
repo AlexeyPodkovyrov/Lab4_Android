@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProfileApp</string>
+    <string name="profile_name">Алексей Подковыров</string>
+    <string name="profile_status">Android-разработчик</string>
+    <string name="button_edit">Редактировать</string>
+    <string name="button_save">Сохранить</string>
+    <string name="button_back">Выйти</string>
+    <string name="toast_message">Редактирование профиля</string>
+    <string name="toast_save_message">Изменения сохранены</string>
+</resources>
