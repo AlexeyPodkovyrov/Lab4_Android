@@ -44,7 +44,7 @@
 
 ## Итоговый листинг файла `activity_main.xml`
 
-```xml
+```kotlin
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -192,7 +192,7 @@
 
 ## Листинг файла `MainActivity.kt`
 
-```xml
+```kotlin
 package com.example.profileapp
 
 import androidx.appcompat.app.AppCompatActivity
